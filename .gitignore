@@ -1,0 +1,5 @@
+*.py[oc]
+*.mo
+*.sqlite3
+static/
+*.lock
