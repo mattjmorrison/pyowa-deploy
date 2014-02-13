@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'capistrano-django', '~> 2.4.2'
+gem 'capistrano-django', '~> 2.5.0'

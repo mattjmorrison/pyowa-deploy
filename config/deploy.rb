@@ -6,4 +6,4 @@ set :django_settings_dir, 'pyowa/settings'
 set :wsgi_path, 'pyowa'
 set :pip_requirements, 'requirements.txt'
 set :compilemessages, true
-
+set :service, 'nginx'
